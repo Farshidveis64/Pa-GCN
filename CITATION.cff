@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "PA-GCN: label-free learned influence maximization"
+version: 1.0.0
+date-released: 2026-10-30
+license: MIT
+type: software
+authors:
+  - name: "Anonymous"
+    # to be filled after review
+preferred-citation:
+  type: article
+  title: "PA-GCN (title to be filled)"
+  authors:
+    - name: "Anonymous"
+  journal: "IEEE Transactions on Network Science and Engineering"
+  year: 2026
+  notes: "Under review; full reference to be filled."
